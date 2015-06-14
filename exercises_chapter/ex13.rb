@@ -10,3 +10,6 @@ contacts["Joe Smith"][:phone] = contact_data[0][2]
 contacts["Sally Johnson"][:email] = contact_data[1][0]
 contacts["Sally Johnson"][:address] = contact_data[1][1]
 contacts["Sally Johnson"][:phone] = contact_data[1][2]
+
+p "Joe's email is: #{contacts["Joe Smith"][:email]}"
+p "Sally's phone number is: #{contacts["Sally Johnson"][:phone]}"
