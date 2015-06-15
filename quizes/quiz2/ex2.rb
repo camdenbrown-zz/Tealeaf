@@ -1,0 +1,1 @@
+ages.value.inject(:+)
