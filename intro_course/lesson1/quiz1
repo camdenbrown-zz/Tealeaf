@@ -9,9 +9,8 @@
 3.) Map iterates through an array and returns a new array with the values from the block
     Select returns a new array based on the black given
 
-4.) { hair => 'blue'}
+4.) { "hair" => "blue"}
 
 5.) "no way!"
     4
     undefined
-    
