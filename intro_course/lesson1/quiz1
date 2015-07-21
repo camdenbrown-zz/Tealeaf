@@ -1,0 +1,17 @@
+1.) a = 1
+
+1.) A hash has a key value pair and an array is a collection of data.
+
+2.) [1, 2, 3, 3]
+    [1, 2, 3]
+    [1, 2, 3] Mutates the caller
+
+3.) Map iterates through an array and returns a new array with the values from the block
+    Select returns a new array based on the black given
+
+4.) { hair => 'blue'}
+
+5.) "no way!"
+    4
+    undefined
+    
