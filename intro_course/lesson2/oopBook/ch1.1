@@ -1,0 +1,19 @@
+1.) class Person
+    end
+    stan = Person.new
+
+2.) A module is a block of code that is shared between objects.
+
+    module Run
+      def run
+        puts "Running..."
+      end
+    end
+
+    class Person
+      include run
+    end
+
+    class Cat
+      include run
+    end
